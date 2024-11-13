@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("iphone.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+h1{
+    color: blue;
+    /* background-image: url("iphone.jpg"); */
+}
+
+input{
+    color: white;
+}
+
+label{
+    color: white;
+}
